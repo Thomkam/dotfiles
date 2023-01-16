@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas-kamoun@hotmail.fr
+	name = Thomas Kamoun
